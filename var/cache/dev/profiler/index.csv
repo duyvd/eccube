@@ -411,3 +411,6 @@ cab22f,::1,GET,http://localhost/eccube/nikken_admin/login,1624316328,,200
 3ccd7c,::1,POST,http://localhost/eccube/nikken_admin/login,1624316347,,302
 6d1cfa,::1,GET,http://localhost/eccube/nikken_admin/,1624316355,,200
 f6549b,::1,GET,http://localhost/eccube/nikken_admin/sale_chart,1624316363,,200
+a5a718,::1,GET,http://localhost/eccube/block/search_product,1624317629,d1b402,200
+0fa7fa,::1,GET,http://localhost/eccube/block/search_product,1624317630,d1b402,200
+d1b402,::1,GET,http://localhost/eccube/,1624317630,,200
