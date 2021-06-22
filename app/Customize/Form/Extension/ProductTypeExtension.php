@@ -52,7 +52,7 @@ class ProductTypeExtension extends AbstractTypeExtension
             ->add('self_weight', NumberType::class, [
                 'required' => false,
                 'constraints' => [
-                    new Length(['max' => 10]),
+                    new Length(['max' => 15]),
                     new Regex([
                         'pattern' => "/^\d+$/u",
                         'message' => 'form_error.numeric_only',
